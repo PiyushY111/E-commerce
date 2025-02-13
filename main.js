@@ -43,7 +43,7 @@ var swiper = new Swiper(".new-arrival", {
     spaceBetween: 20,
     loop:true, 
     autoplay: {
-      delay: 5500,
+      delay: 1500,
       disableOnInteraction: false,
     },
     centeredSlides: true,
